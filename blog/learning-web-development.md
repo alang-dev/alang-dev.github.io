@@ -1,3 +1,9 @@
+---
+layout: default
+title: Learning Web Development
+date: 2025-08-02
+---
+
 # Learning Web Development
 
 *Published: August 2, 2025*
